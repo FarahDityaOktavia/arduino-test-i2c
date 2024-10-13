@@ -1,1 +1,2 @@
-# arduino-test-i2c
+# Arduino Test I2C
+Code for testing LCD
